@@ -4,7 +4,7 @@
 
 ### iOS Action Sheet App
 
-![iOS Action Sheet](https://user-images.githubusercontent.com/45048950/72666670-9bdcfd00-3a4f-11ea-9910-a63a2a7f9d2c.gif)
+![iOS Action Sheet](https://user-images.githubusercontent.com/45048950/74759582-f3bb8d80-52b3-11ea-8dc7-43e4433c7fc5.gif)
 
 ### Built With:
 
