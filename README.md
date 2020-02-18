@@ -1,12 +1,8 @@
-# About The Project
+![Apple Logo](https://user-images.githubusercontent.com/45048950/73131198-bca1e580-4041-11ea-8f8d-ebfd844f0e64.png)
 
-<img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
-
-### iOS Action Sheet App
+# iOS Action Sheet App
 
 ![iOS Action Sheet](https://user-images.githubusercontent.com/45048950/74759582-f3bb8d80-52b3-11ea-8dc7-43e4433c7fc5.gif)
-
-### Built With:
 
 ### Code Editor
 
