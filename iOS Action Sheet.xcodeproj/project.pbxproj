@@ -13,8 +13,6 @@
 		1F2AB64823CD0855009BFC4D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F2AB64623CD0855009BFC4D /* Main.storyboard */; };
 		1F2AB64A23CD0856009BFC4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F2AB64923CD0856009BFC4D /* Assets.xcassets */; };
 		1F2AB64D23CD0856009BFC4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F2AB64B23CD0856009BFC4D /* LaunchScreen.storyboard */; };
-		1F2AB65823CD0856009BFC4D /* iOS_Action_SheetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2AB65723CD0856009BFC4D /* iOS_Action_SheetTests.swift */; };
-		1F2AB66323CD0856009BFC4D /* iOS_Action_SheetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2AB66223CD0856009BFC4D /* iOS_Action_SheetUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,11 +42,7 @@
 		1F2AB64C23CD0856009BFC4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F2AB64E23CD0856009BFC4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F2AB65323CD0856009BFC4D /* iOS Action SheetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS Action SheetTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1F2AB65723CD0856009BFC4D /* iOS_Action_SheetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_Action_SheetTests.swift; sourceTree = "<group>"; };
-		1F2AB65923CD0856009BFC4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F2AB65E23CD0856009BFC4D /* iOS Action SheetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS Action SheetUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1F2AB66223CD0856009BFC4D /* iOS_Action_SheetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_Action_SheetUITests.swift; sourceTree = "<group>"; };
-		1F2AB66423CD0856009BFC4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,8 +74,6 @@
 			isa = PBXGroup;
 			children = (
 				1F2AB63F23CD0855009BFC4D /* iOS Action Sheet */,
-				1F2AB65623CD0856009BFC4D /* iOS Action SheetTests */,
-				1F2AB66123CD0856009BFC4D /* iOS Action SheetUITests */,
 				1F2AB63E23CD0855009BFC4D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -108,24 +100,6 @@
 				1F2AB64E23CD0856009BFC4D /* Info.plist */,
 			);
 			path = "iOS Action Sheet";
-			sourceTree = "<group>";
-		};
-		1F2AB65623CD0856009BFC4D /* iOS Action SheetTests */ = {
-			isa = PBXGroup;
-			children = (
-				1F2AB65723CD0856009BFC4D /* iOS_Action_SheetTests.swift */,
-				1F2AB65923CD0856009BFC4D /* Info.plist */,
-			);
-			path = "iOS Action SheetTests";
-			sourceTree = "<group>";
-		};
-		1F2AB66123CD0856009BFC4D /* iOS Action SheetUITests */ = {
-			isa = PBXGroup;
-			children = (
-				1F2AB66223CD0856009BFC4D /* iOS_Action_SheetUITests.swift */,
-				1F2AB66423CD0856009BFC4D /* Info.plist */,
-			);
-			path = "iOS Action SheetUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -269,7 +243,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1F2AB65823CD0856009BFC4D /* iOS_Action_SheetTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,7 +250,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1F2AB66323CD0856009BFC4D /* iOS_Action_SheetUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
